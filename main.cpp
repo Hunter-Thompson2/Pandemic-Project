@@ -2,7 +2,7 @@
 //  main.cpp
 //  
 //
-//  Created by Kale Erickson on 4/7/20.
+//  Created by Kale Erickson on 4/7/20. Finished later by Hunter Thompson
 //#include "main.hpp"
 #include <iostream>
 #include <fstream>
